@@ -1,4 +1,4 @@
 # PingNewNo
 Send Message Without Saving Number
-![Alt text](PingNewNo/src/ScreenShots/Screen1.jpeg?raw=true "Optional Title")
-![Alt text](PingNewNo/src/ScreenShots/Screen2.jpeg?raw=true "Optional Title")
+![Screen1](https://raw.githubusercontent.com/Trinath123/PingNewNo/blob/master/src/ScreenShots/Screen1.jpeg)
+![Screen2](https://raw.githubusercontent.com/Trinath123/PingNewNo/blob/master/src/ScreenShots/Screen2.jpeg)
