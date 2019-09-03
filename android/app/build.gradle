@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.pingnewno"
+        applicationId "com.adpro.whatsappnewno"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

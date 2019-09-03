@@ -1,4 +1,4 @@
-package com.pingnewno;
+package com.adpro.whatsappnewno;
 
 import com.facebook.react.ReactActivity;
 

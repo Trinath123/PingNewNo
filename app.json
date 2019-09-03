@@ -1,4 +1,7 @@
 {
   "name": "PingNewNo",
-  "displayName": "PingNewNo"
+  "displayName": "PingNewNo",
+  "android": {
+    "package": "com.adpro.whatsappnewno"
+  }
 }

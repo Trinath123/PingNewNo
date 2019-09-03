@@ -1,4 +1,4 @@
-package com.pingnewno;
+package com.adpro.whatsappnewno;
 
 import android.app.Application;
 import android.util.Log;
